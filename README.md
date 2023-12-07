@@ -1,0 +1,7 @@
+# CS340
+
+To make programs easy to handle and update, I focus on keeping my code organized and well-documented. For the CRUD Python module in Project One, I made sure each function had a clear purpose, making it easy to understand. This module then came in handy in Project Two, connecting dashboard widgets to the database. The cool part? It made debugging a breeze, and the code could easily adapt to changes. So, it's not just a module; it's a long-term solution for hassle-free development.
+
+As a computer science enthusiast, my approach to problems involves breaking them down logically before jumping into coding. When dealing with Grazioso Salvare's database and dashboard needs, I took a more holistic approach, thinking about how everything connects. It was different from previous assignments that were more straightforward. I used advanced techniques to fetch data efficiently, moving away from simpler methods in earlier courses.
+
+Now, why does all this matter? Well, computer scientists enthusiasts like me tackle complex issues by thinking smart and designing efficient software. In the Grazioso Salvare project, my work directly helps them work better. The CRUD module makes handling data a breeze, and the dashboard I created helps them visualize info for better decision-making. So, being a computer scientist isn't just about code; it's about making a real impact on how companies operate, making their lives easier and more efficient.
