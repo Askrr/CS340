@@ -1,4 +1,4 @@
-# CS340
+# CS340 Client/Server Development
 
 To make programs easy to handle and update, I focus on keeping my code organized and well-documented. For the CRUD Python module in Project One, I made sure each function had a clear purpose, making it easy to understand. This module then came in handy in Project Two, connecting dashboard widgets to the database. The cool part? It made debugging a breeze, and the code could easily adapt to changes. So, it's not just a module; it's a long-term solution for hassle-free development.
 
